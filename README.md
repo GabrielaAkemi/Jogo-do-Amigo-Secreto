@@ -2,6 +2,8 @@
 
 Este é um projeto simples em JavaScript que permite adicionar amigos a uma lista, exibir essa lista na tela, e realizar um sorteio aleatório entre os amigos para escolher um deles.
 
+https://gabrielaakemi.github.io/Jogo-do-Amigo-Secreto/
+
 ## Funcionalidades
 
 ### 1. **Adicionar Amigo**
